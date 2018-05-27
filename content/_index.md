@@ -1,17 +1,16 @@
 +++
-title = "reveal-hugo"
-description = "A Hugo theme for creating Reveal.js presentations"
+title = "dorn"
+description = "Der Dorn ist ein quartalsweise erscheinendes, kostenfreies Magazin für angewandte Gesellschaftstheorie."
 outputs = ["Reveal"]
 [reveal_hugo]
-custom_theme = "themes/dzello.css"
+theme = "beige"
 margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
 +++
 
-# reveal-hugo
+![Der Dorn]({{site.baseurl}}/banner-png)
 
-A Hugo theme for creating Reveal.js presentations.
+# Der Dorn
 
-~ made by [@dzello](https://dzello.com/) ~
