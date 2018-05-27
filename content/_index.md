@@ -44,8 +44,6 @@ Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist u
 
 ---
 
-{{% section id="wo" %}}
-
 # Wo?
 
 Das Heft soll kostenfrei an der LMU München und anderen Universitäten verteilt werden.
