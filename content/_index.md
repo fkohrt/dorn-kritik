@@ -10,7 +10,6 @@ transition = "slide"
 transition_speed = "fast"
 +++
 
-![Der Dorn]({{site.baseurl}}/banner-png)
+![Der Dorn]({{site.baseurl}}/banner.png)
 
 # Der Dorn
-
