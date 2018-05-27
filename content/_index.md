@@ -8,17 +8,19 @@ transition = "slide"
 transition_speed = "fast"
 +++
 
-{{% section %}}
-
-{{% slide background-image="images/bg.jpg" %}}
+{{% slide id="home" background-image="images/bg.jpg" %}}
 
 ![Der Dorn](images/banner.png)
+
+[Was](#/was) [Wer](#/wer)
 
 {{% /slide %}}
 
 ---
 
-_Der Dorn_ antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt.
+{{% section id="was" %}}
+
+**Der Dorn** antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt.
 
 {{% fragment %}} Diverse emanzipative Gesellschaftstheorien stützen sich auf eben diese Motivation, die Gesellschaft zu kritisieren und zu verbessern. Theorien jedoch werden nur wirksam, wenn sie verstanden und angewendet werden, denn ihr Anspruch geht über das Errichten akademischer Luftschlösser hinaus. {{% /fragment %}}
 
@@ -30,12 +32,18 @@ Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist u
 
 ---
 
-_Der Dorn_ will deshalb Theorie zugänglich machen. Er sieht darin eine Chance für die öffentlichen Debatten. Dieser soll (endlich!) von allen, und er soll mit offenen Augen geführt werden. So will _Der Dorn_ keine Addition zum Rauschen des bestehenden Diskurses sein – er will dessen Mitglieder verändern.
+**Der Dorn** will deshalb Theorie zugänglich machen. Er sieht darin eine Chance für die öffentlichen Debatten. Dieser soll (endlich!) von allen, und er soll mit offenen Augen geführt werden. So will **Der Dorn** keine Addition zum Rauschen des bestehenden Diskurses sein – er will dessen Mitglieder verändern.
 
-{{% fragment %}} In diesem Sinne versteht sich _Der Dorn_ nicht als weiteres Stück Theorie, sondern als Tätigkeit. Er erfüllt deren Forderung: Nach Verständnis, nach Anwendung, nach Praxis. {{% /fragment %}}
+{{% fragment %}} In diesem Sinne versteht sich **Der Dorn** nicht als weiteres Stück Theorie, sondern als Tätigkeit. Er erfüllt deren Forderung: Nach Verständnis, nach Anwendung, nach Praxis. {{% /fragment %}}
 
 ---
 
-_Der Dorn_ nimmt seine Leser ernst. Auf banale Belehrungen wird deshalb ebenso verzichtet wie auf selbstgenügsame sprachliche Komplexität. Fachsprache ist für _Den Dorn_ kein Garant für Qualität und der Verweis auf große Namen nicht für Glaubwürdigkeit. Im Zentrum steht der Gedanke und sein Potential zu verändern. {{% fragment %}} Endlich. {{% /fragment %}}
+**Der Dorn** nimmt seine Leser ernst. Auf banale Belehrungen wird deshalb ebenso verzichtet wie auf selbstgenügsame sprachliche Komplexität. Fachsprache ist für **Den Dorn** kein Garant für Qualität und der Verweis auf große Namen nicht für Glaubwürdigkeit. Im Zentrum steht der Gedanke und sein Potential zu verändern. {{% fragment %}} Endlich. {{% /fragment %}}
 
 {{% /section %}}
+
+---
+
+{{% section id="wer" %}}
+
+
