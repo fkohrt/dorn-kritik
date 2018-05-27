@@ -44,8 +44,6 @@ Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist u
 
 ---
 
-# Wo?
-
 Das Heft soll kostenfrei an der LMU München und anderen Universitäten verteilt werden.
 
 [E-Mail](mailto:der.dorn.kontakt@gmail.com) ~ [Facebook](https://www.facebook.com/DerDornMagazin/)
