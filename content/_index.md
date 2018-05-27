@@ -12,15 +12,13 @@ transition_speed = "fast"
 
 ![Der Dorn](images/banner.png)
 
-[Was?](#/was) ~ [Wo?](#/wo)
+[Was?](#/1) ~ [Wo?](#/2)
 
 {{% /slide %}}
 
 ---
 
-{{% section id="was" %}}
-
-# Was?
+{{% section %}}
 
 **Der Dorn** antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt.
 
