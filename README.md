@@ -1,1 +1,3 @@
-# dorn-kritik
+# Website from “Der Dorn – Heft für angewandte Gesellschaftskritik”
+
+Uses [Hugo](https://gohugo.io/) with [reveal-hugo](https://themes.gohugo.io/reveal-hugo/) theme.
