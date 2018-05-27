@@ -14,8 +14,6 @@ transition_speed = "fast"
 
 ![Der Dorn](images/banner.png)
 
----
-
 {{% slide background-image="images/banner.png" %}}
 ## Custom slide 2
 {{% /slide %}}
