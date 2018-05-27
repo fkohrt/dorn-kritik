@@ -20,13 +20,13 @@ transition_speed = "fast"
 
 ---
 
-{{% fragment %}} _Der Dorn_ antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt. {{% /fragment %}}
+_Der Dorn_ antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt.
 
 {{% fragment %}} Diverse emanzipative Gesellschaftstheorien stützen sich auf eben diese Motivation, die Gesellschaft zu kritisieren und zu verbessern. Theorien jedoch werden nur wirksam, wenn sie verstanden und angewendet werden, denn ihr Anspruch geht über das Errichten akademischer Luftschlösser hinaus. {{% /fragment %}}
 
 ---
 
-{{% fragment %}} Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist und bleibt die Gesellschaft. Die Gesellschaft jedoch besteht aus Menschen. {{% /fragment %}}
+Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist und bleibt die Gesellschaft. Die Gesellschaft jedoch besteht aus Menschen.
 
 {{% fragment %}} Der Gegenstand der Theorie also kann – und soll – mitreden! Theorie soll (endlich!) von denen verstanden, behandelt und diskutiert werden, die sie betrifft. Jede Einschränkung dieser aktiven Leserschaft schmälert den Zugang zu echter Veränderung. {{% /fragment %}}
 
