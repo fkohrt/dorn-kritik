@@ -16,6 +16,10 @@ transition_speed = "fast"
 
 ---
 
+{{% slide background-image="images/banner.png" %}}
+## Custom slide 2
+{{% /slide %}}
+
 _Der Dorn_ antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt. Diverse emanzipative Gesellschaftstheorien stützen sich auf eben diese Motivation, die Gesellschaft zu kritisieren und zu verbessern. Theorien jedoch werden nur wirksam, wenn sie verstanden und angewendet werden, denn ihr Anspruch geht über das Errichten akademischer Luftschlösser hinaus. Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist und bleibt die Gesellschaft. Die Gesellschaft jedoch besteht aus Menschen. Der Gegenstand der Theorie also kann – und soll – mitreden! Theorie soll (endlich!) von denen verstanden, behandelt und diskutiert werden, die sie betrifft. Jede Einschränkung dieser aktiven Leserschaft schmälert den Zugang zu echter Veränderung.
 
 ---
