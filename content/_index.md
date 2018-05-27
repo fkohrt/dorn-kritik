@@ -8,17 +8,17 @@ transition = "slide"
 transition_speed = "fast"
 +++
 
+{{% section %}}
+
 {{% slide id="home" background-image="images/bg.jpg" %}}
 
 ![Der Dorn](images/banner.png)
 
-[Was?](#/1) ~ [Wo?](#/2)
+[E-Mail](mailto:der.dorn.kontakt@gmail.com) ~ [Facebook](https://www.facebook.com/DerDornMagazin/)
 
 {{% /slide %}}
 
 ---
-
-{{% section %}}
 
 **Der Dorn** antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, noch einfach zu verändern ist. Und doch ist beides nötig – und die Frage drängt.
 
@@ -41,9 +41,3 @@ Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist u
 **Der Dorn** nimmt seine Leser ernst. Auf banale Belehrungen wird deshalb ebenso verzichtet wie auf selbstgenügsame sprachliche Komplexität. Fachsprache ist für **Den Dorn** kein Garant für Qualität und der Verweis auf große Namen nicht für Glaubwürdigkeit. Im Zentrum steht der Gedanke und sein Potential zu verändern. {{% fragment %}} Endlich. {{% /fragment %}}
 
 {{% /section %}}
-
----
-
-Das Heft soll kostenfrei an der LMU München und anderen Universitäten verteilt werden.
-
-[E-Mail](mailto:der.dorn.kontakt@gmail.com) ~ [Facebook](https://www.facebook.com/DerDornMagazin/)
