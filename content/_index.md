@@ -4,8 +4,6 @@ description = "Der Dorn ist ein quartalsweise erscheinendes, kostenfreies Magazi
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "beige"
-margin = 0.2
-highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
 +++
@@ -26,11 +24,15 @@ _Der Dorn_ antwortet auf eine Gesellschaft, die weder einfach zu beschreiben, no
 
 ---
 
-Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist und bleibt die Gesellschaft. Die Gesellschaft jedoch besteht aus Menschen. {{% fragment %}} Der Gegenstand der Theorie also kann – und soll – mitreden! Theorie soll (endlich!) von denen verstanden, behandelt und diskutiert werden, die sie betrifft. Jede Einschränkung dieser aktiven Leserschaft schmälert den Zugang zu echter Veränderung. {{% /fragment %}}
+Ansatzpunkt, Gegenstand und Wirkungskreis guter gesellschaftlicher Theorie ist und bleibt die Gesellschaft. Die Gesellschaft jedoch besteht aus Menschen.
+
+{{% fragment %}} Der Gegenstand der Theorie also kann – und soll – mitreden! Theorie soll (endlich!) von denen verstanden, behandelt und diskutiert werden, die sie betrifft. Jede Einschränkung dieser aktiven Leserschaft schmälert den Zugang zu echter Veränderung. {{% /fragment %}}
 
 ---
 
-_Der Dorn_ will deshalb Theorie zugänglich machen. Er sieht darin eine Chance für die öffentlichen Debatten. Dieser soll (endlich!) von allen, und er soll mit offenen Augen geführt werden. So will _Der Dorn_ keine Addition zum Rauschen des bestehenden Diskurses sein – er will dessen Mitglieder verändern. {{% fragment %}} In diesem Sinne versteht sich _Der Dorn_ nicht als weiteres Stück Theorie, sondern als Tätigkeit. Er erfüllt deren Forderung: Nach Verständnis, nach Anwendung, nach Praxis. {{% /fragment %}}
+_Der Dorn_ will deshalb Theorie zugänglich machen. Er sieht darin eine Chance für die öffentlichen Debatten. Dieser soll (endlich!) von allen, und er soll mit offenen Augen geführt werden. So will _Der Dorn_ keine Addition zum Rauschen des bestehenden Diskurses sein – er will dessen Mitglieder verändern.
+
+{{% fragment %}} In diesem Sinne versteht sich _Der Dorn_ nicht als weiteres Stück Theorie, sondern als Tätigkeit. Er erfüllt deren Forderung: Nach Verständnis, nach Anwendung, nach Praxis. {{% /fragment %}}
 
 ---
 
