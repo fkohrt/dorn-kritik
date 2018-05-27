@@ -1,5 +1,5 @@
 +++
-title = "dorn"
+title = "Der Dorn – Heft für angewandte Gesellschaftskritik"
 description = "Der Dorn ist ein quartalsweise erscheinendes, kostenfreies Magazin für angewandte Gesellschaftstheorie."
 outputs = ["Reveal"]
 [reveal_hugo]
