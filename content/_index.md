@@ -34,6 +34,6 @@ _Der Dorn_ will deshalb Theorie zugänglich machen. Er sieht darin eine Chance f
 
 ---
 
-_Der Dorn_ nimmt seine Leser ernst. Auf banale Belehrungen wird deshalb ebenso verzichtet wie auf selbstgenügsame sprachliche Komplexität. Fachsprache ist für _Den Dorn_ kein Garant für Qualität und der Verweis auf große Namen nicht für Glaubwürdigkeit. Im Zentrum steht der Gedanke und sein Potential zu verändern. {{% fragment %}} Endlich. {{% fragment %}}
+_Der Dorn_ nimmt seine Leser ernst. Auf banale Belehrungen wird deshalb ebenso verzichtet wie auf selbstgenügsame sprachliche Komplexität. Fachsprache ist für _Den Dorn_ kein Garant für Qualität und der Verweis auf große Namen nicht für Glaubwürdigkeit. Im Zentrum steht der Gedanke und sein Potential zu verändern. {{% fragment %}} Endlich. {{% /fragment %}}
 
 {{% /section %}}
