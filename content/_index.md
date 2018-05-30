@@ -14,7 +14,7 @@ transition_speed = "fast"
 
 ![Der Dorn](images/banner.png)
 
-[E-Mail](mailto:der.dorn.kontakt@gmail.com) ~ [Facebook](https://www.facebook.com/DerDornMagazin/)
+[E-Mail](mailto:mail@dorn-kritik.de) ~ [Facebook](https://www.facebook.com/DerDornMagazin/)
 
 {{% /slide %}}
 
